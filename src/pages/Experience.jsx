@@ -8,7 +8,7 @@ function Experience() {
   return (
     <div className="h-auto w-full sm:mb-0">
       <div>
-        <p className="font-poppins mx-auto w-[50%] pb-12 pt-12 text-center text-2xl tracking-wider font-bold text-gray-900 lg:text-3xl">
+        <p className="font-poppins mx-auto w-[50%] pb-12 pt-24 text-center text-2xl tracking-wider font-bold text-gray-900 lg:text-3xl">
           Experience
         </p>
       </div>
