@@ -44,7 +44,7 @@ function App() {
         <div className="App" id={load ? "no-scroll" : "scroll"}>
           <ScrollToTopOnRouteChange />
           <Routes>
-            <Route path="/" element={<Layout />} />
+            <Route path="/arsalan-portfolio" element={<Layout />} />
             <Route path="/about" element={<About />} />
             <Route path="/projectlist" element={<ArchiveProjects />} />
             <Route path="/contact" element={<Contact />} />
