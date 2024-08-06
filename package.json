@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://MuhammadArsalan123.github.io/m.arsalan_portfolio",
+  "homepage": "https://MuhammadArsalan123.github.io/arsalan-portfolio",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
