@@ -10,7 +10,7 @@ function ArchiveProjects() {
     <div className="h-auto w-full ">
       <div
         onClick={() => {
-          navigate(-1);
+          navigate("/arsalan-portfolio");
         }}
         className="ml-[5%] hidden gap-2 pt-8 hover:text-black lg:flex lg:items-center "
       >
